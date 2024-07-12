@@ -21,3 +21,6 @@ The business request was an executive sales report for sales managers over a per
 **Revenue Insights:**
 
 In 2010, revenue totaled £321,000 from the sale of 161,000 items. Revenue fluctuated throughout the year, peaking at £51,038 in July and dropping to £13,715 in December. In contrast, 2011 saw a substantial increase, with revenue soaring to £2.9 million from the sale of 1.7 million items. The highest revenue point in 2011 was £376,965 in September, reflecting a more stable growth trajectory compared to 2010.
+
+
+![Revenue Analysis](https://github.com/OlatunjiLanre/Online-Retail-Store-Analysis-/blob/main/Online%20retail%20store.JPG)
