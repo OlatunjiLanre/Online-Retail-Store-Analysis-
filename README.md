@@ -15,3 +15,5 @@ The business request was an executive sales report for sales managers over a per
 3. **Loaded to Power Pivot:** Seamlessly integrated the transformed data into Power Pivot for enhanced data handling.
 4. **Data Modeling:** Developed a comprehensive data model to support analysis and reporting.
 5. **Analysis:** Utilized DAX in Power Pivot to create calculated measures and employed Excel pivot tables for KPIs, enhancing charts and slicers for better data visualization.
+
+![Data Modelling](https://github.com/OlatunjiLanre/Online-Retail-Store-Analysis-/blob/main/Data%20Modelling.JPG)
