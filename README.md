@@ -20,7 +20,14 @@ The business request was an executive sales report for sales managers over a per
 
 **Revenue Insights:**
 
-In 2010, revenue totaled £321,000 from the sale of 161,000 items. Revenue fluctuated throughout the year, peaking at £51,038 in July and dropping to £13,715 in December. In contrast, 2011 saw a substantial increase, with revenue soaring to £2.9 million from the sale of 1.7 million items. The highest revenue point in 2011 was £376,965 in September, reflecting a more stable growth trajectory compared to 2010.
+1. In 2010, revenue totaled £321,000 from the sale of 161,000 items. Revenue fluctuated throughout the year, peaking at £51,038 in July and dropping to £13,715 in December. In contrast, 2011 saw a substantial increase, with revenue soaring to £2.9 million from the sale of 1.7 million items. The highest revenue point in 2011 was £376,965 in September, reflecting a more stable growth trajectory compared to 2010.
+ 
+2. This growth was driven significantly by top products like "PAPER CRAFT, LITTLE BIRDIE," along with contributions from Customer ID 13089, which generated £168,470 in revenue.
 
 
 ![Revenue Analysis](https://github.com/OlatunjiLanre/Online-Retail-Store-Analysis-/blob/main/Online%20retail%20store.JPG)
+
+
+**Customer Retention Insights:**
+
+Customer Retention Analysis shows that; 2010 had peaks in the first half of the year, stabilizing mid-year before declining towards the end. In 2011, retention rates started strong but gradually decreased throughout the year. Notably, January and March of both years stood out with higher retention rates, reflecting successful engagement strategies during those periods.
