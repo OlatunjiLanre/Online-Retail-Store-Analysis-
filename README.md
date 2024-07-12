@@ -31,3 +31,12 @@ The business request was an executive sales report for sales managers over a per
 **Customer Retention Insights:**
 
 Customer Retention Analysis shows that; 2010 had peaks in the first half of the year, stabilizing mid-year before declining towards the end. In 2011, retention rates started strong but gradually decreased throughout the year. Notably, January and March of both years stood out with higher retention rates, reflecting successful engagement strategies during those periods.
+
+![Customer Insight](https://github.com/OlatunjiLanre/Online-Retail-Store-Analysis-/blob/main/cus.JPG)
+
+
+**Recommendations:**
+
+1. Enhance revenue growth and stability by stocking and expanding top-selling products like "PAPER CRAFT, LITTLE BIRDIE," and other top selling products.
+2. Identify and target high-value customers with personalized marketing, and maximize revenue with targeted promotions during peak months and holiday-specific campaigns.
+3. To improve customer retention, enhance engagement through personalized emails, newsletters, and loyalty programs, conduct regular surveys and act on feedback to improve the customer experience, focus on low retention months with targeted offers and re-engagement emails, and maintain product quality and excellent customer service.
